@@ -1,0 +1,21 @@
+{
+ "name": "安助",
+ "short_name": "安助",
+ "start_url": "./",
+ "display": "standalone",
+ "background_color": "#EDF0F4",
+ "theme_color": "#1E2940",
+ "icons": [
+  {
+   "src": "icon-180.png",
+   "sizes": "180x180",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  }
+ ]
+}
